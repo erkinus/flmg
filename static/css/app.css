@@ -147,8 +147,8 @@ hr {
   background: #f2be8c; }
 
 .full.footer-bg {
-  background-color: #ffffff;
-  background-image: url(../../images/@stock/footer-bg.png);
+  background-color: #c2c2c2;
+  /*background-image: url(../../images/@stock/footer-bg.png);*/
   background-position: center center;
   background-repeat: no-repeat; }
 
@@ -800,21 +800,21 @@ html.no-touchevents .nav-video {
 .icon-1 {
   width: 100px;
   height: 100px;
-  background-color: #ffffff;
-  background-image: url(../../images/@stock/service-1.png); }
+  background-color: #c2c2c2;
+  /*background-image: url(../../images/@stock/service-1.png);*/ }
 
 .icon-2 {
   width: 100px;
   height: 100px;
-  background-color: #ffffff;
-  background-image: url(../../images/@stock/service-2.png);
+  background-color: #c2c2c2;
+  /*background-image: url(../../images/@stock/service-2.png);*/
   background-repeat: repeat; }
 
 .icon-3 {
   width: 100px;
   height: 100px;
-  background-color: #ffffff;
-  background-image: url(../../images/@stock/service-3.png);
+  background-color: #c2c2c2;
+  /*background-image: url(../../images/@stock/service-3.png);*/
   background-repeat: repeat; }
 
 .icon-text h3 {
