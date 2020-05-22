@@ -170,6 +170,11 @@ hr {
   font-size: 24px;
   font-family: montserrat;
   font-weight: bold; }
+  
+.logo svg {
+	height: 55px;
+	width: 150px;
+}
 
 /* home and nav */
 .box {
